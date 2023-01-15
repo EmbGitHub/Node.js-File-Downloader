@@ -1,0 +1,20 @@
+{
+  "name": "download-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "download.js",
+  "type": "module",
+  "scripts": {
+    "start": "node download.js"
+  },
+  "keywords": [
+    "download",
+    "nodejs",
+    "https",
+    "fs",
+    "stream",
+    "pipe"
+  ],
+  "author": "Mahdi Bamoulid",
+  "license": "ISC"
+}
